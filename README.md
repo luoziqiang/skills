@@ -2,4 +2,9 @@
 
 switch 
 branch
-create a new new branch
+<<<<<<< HEAD
+create a new branch fearture1
+=======
+
+create a new branch fearture1
+>>>>>>> feature1
